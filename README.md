@@ -8,6 +8,7 @@ Predict the traffic volume on a given highway using Metro Interstate Traffic Vol
 
 **Unique Project Skills Showcased/Utilized:**
 - Ensemble learning
+- Deep Learning
 - Dimensionality reduction
 - Over/under sampling
 - Data transformations
