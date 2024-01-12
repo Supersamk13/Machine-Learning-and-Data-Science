@@ -6,7 +6,7 @@ Welcome to my portfolio of machine learning and data science projects. Here's a 
 
 Predict the traffic volume on a given highway using Metro Interstate Traffic Volume data. This application is designed for forecasters and radio hosts to predict future traffic based on temporal and climate data.
 
-**Unique Project Skills Showcased/Utilized:**
+**Individual Project Skills Showcased/Utilized:**
 - Ensemble Learning
 - Deep Learning
 - Over/Under Sampling via SMOTEENN
@@ -19,7 +19,7 @@ Predict the traffic volume on a given highway using Metro Interstate Traffic Vol
 
 Analyze the history of a single stock via Yahoo Finance data to predict its closing valuation.
 
-**Unique Project Skills Showcased/Utilized:**
+**Individual Project Skills Showcased/Utilized:**
 - Regularized Linear Regression
 - Support Vector Regression
 - Dimensionality reduction via Principal Component Analysis (PCA)
@@ -28,7 +28,7 @@ Analyze the history of a single stock via Yahoo Finance data to predict its clos
 
 Predict whether a message is spam using data from spam.csv and Natural Language Processing techniques.
 
-**Unique Project Skills Showcased/Utilized:**
+**Individual Project Skills Showcased/Utilized:**
 - Data Pipeline
 - Naive Bayes
 - Word Vector Encoding
