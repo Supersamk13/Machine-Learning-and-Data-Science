@@ -20,7 +20,9 @@ Analyze the history of a single stock via Yahoo Finance data to predict its clos
 
 **Unique Project Skills Showcased/Utilized:**
 - Machine learning algorithms
-- Dimensionality reduction
+- Dimensionality reduction via Principal Component Analysis (PCA)
+- Regularized Linear Regression
+- Support Vector Regression
 
 ## Spam/Ham Predictor
 
