@@ -28,7 +28,10 @@ Predict whether a message is spam using data from spam.csv and Natural Language 
 
 **Unique Project Skills Showcased/Utilized:**
 - Data pipeline
-- Text preprocessing
+- Naive Bayes
+- Word Vector Encoding
+- Lemmatization
+- Text Preprocessing
 
 **Overall Skills Showcased/Utilized:**
 - Python
