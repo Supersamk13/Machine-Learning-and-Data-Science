@@ -39,7 +39,6 @@ Predict whether a message is spam using data from spam.csv and Natural Language 
 - Python
 - Deep understanding of the assumptions, mathematics, and hyperparameters involved with different machine learning algorithms
 - Scikit-learn
-- TensorFlow
 - Pandas
 - Seaborn
 - Matplotlib
