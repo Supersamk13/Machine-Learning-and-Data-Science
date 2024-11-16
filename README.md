@@ -2,6 +2,20 @@
 
 Welcome to my portfolio of machine learning and data science projects. Here's a detailed overview:
 
+## Double Dueling DQL CartPole with Prioritized Experience Replay (PER)
+Solve the CartPole-v1 reinforcement learning environment using a custom implementation of Dueling Double Deep Q-Learning (DQL) combined with Prioritized Experience Replay (PER). This project showcases advanced reinforcement learning techniques for balancing exploration and exploitation in dynamic environments.
+
+**Individual Project Skills Showcased/Utilized:**
+
+- Reinforcement Learning
+- Deep Q-Learning with Dueling Architecture
+- Prioritized Experience Replay (PER)
+- Custom Neural Network Architectures
+- TensorFlow and Keras
+- Softmax Action Selection
+- Visualization with OpenCV and Matplotlib
+- Multi-threading for Asynchronous Operations
+
 ## Data Science and Machine Learning Interstate Traffic Predictor
 
 Predict the traffic volume on a given highway using Metro Interstate Traffic Volume data. This application is designed for forecasters and radio hosts to predict future traffic based on temporal and climate data.
@@ -13,7 +27,6 @@ Predict the traffic volume on a given highway using Metro Interstate Traffic Vol
 - Extensive Feature Engineering
 - Data Transformations
 - Categorical Encoding
-
 
 ## Stock Price Predictor
 
