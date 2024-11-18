@@ -3,7 +3,9 @@
 Welcome to my portfolio of machine learning and data science projects. Here's a detailed overview:
 
 ## Double Dueling DQL CartPole with Prioritized Experience Replay (PER)
-Solve the CartPole-v1 reinforcement learning environment, where the goal is to balance a pole upright on a cart moving along a frictionless track. This project implements a custom Dueling Double Deep Q-Learning (DQL) model integrated with Prioritized Experience Replay (PER), showcasing advanced techniques for balancing exploration and exploitation in dynamic environments.
+Solve the CartPole-v1 reinforcement learning environment, where the goal is to balance a pole upright on a cart moving along a frictionless track. This project implements a custom Dueling Double Deep Q-Learning (DQL) model integrated with Prioritized Experience Replay (PER), showcasing advanced techniques for balancing exploration and exploitation in dynamic environments. 
+
+(OpenAIGym Cartpole Website)[https://gymnasium.farama.org/environments/classic_control/cart_pole/]
 
 **Individual Project Skills Showcased/Utilized:**
 
